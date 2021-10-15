@@ -26,11 +26,13 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-##SCREENSHOTS
+## SCREENSHOTS
 BLANK SCHEDULE
 ![Blank schedule](./assets/images/work_day_scheduler.png)
 SCHEDULE WITH SOME EDITS SAVED
 ![Schedule with edits](./assets/images/work_day_scheduler_edits.png)
 
 
-##LINK TO DEPLOYED APPLICATION
+## LINK TO DEPLOYED APPLICATION
+
+https://bripap.github.io/daily-planner/
